@@ -7,7 +7,7 @@
 <div align="center">
 
 <!-- Upload your banner image to the repository as assets/banner.png -->
-<img src="assets/banner.png" alt="Anime cyberpunk developer banner" width="100%" />
+<img src="banner.png" alt="Anime cyberpunk developer banner" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub;Web+Developer+in+Progress;Code.+Create.+Repeat." alt="Typing intro" />
 
